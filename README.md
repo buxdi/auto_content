@@ -72,6 +72,6 @@ Lien : [Privacy Policy](https://www.termsfeed.com/live/ff969fca-ac79-4b14-a42b-b
 
 ## Contact
 
-Pour toute question : [GitHub Issues](https://github.com/tonpseudo/auto_content/issues)
+Pour toute question : [GitHub Issues](https://github.com/buxdi/auto_content/issues)
 
 ```
