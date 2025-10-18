@@ -94,5 +94,3 @@ pip install requests
 ---
 
 © 2025 – Module utilitaire d’upload TikTok, à usage expérimental.
-
-```
